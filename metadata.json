@@ -1,0 +1,12 @@
+{
+  "uuid": "gpu-monitor@eli.local",
+  "name": "GPU Monitor (AMD)",
+  "description": "Monitor de GPU AMD (amdgpu) no painel: cilindro de uso preciso via DRM fdinfo, VRAM, temperatura, clocks, ventoinha e energia",
+  "shell-version": [
+    "46"
+  ],
+  "settings-schema": "org.gnome.shell.extensions.gpu-monitor",
+  "gettext-domain": "gpu-monitor",
+  "url": "https://github.com/1155dosilicon/gpu-monitor-gnome",
+  "version": 1
+}
